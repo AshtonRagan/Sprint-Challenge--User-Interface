@@ -275,3 +275,22 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+/* --------------------------about page----------------- */
+.middle-content-about {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.boxes-about {
+  margin: 2%;
+  width: 45%;
+  border-bottom: 2px dotted black;
+  padding: 2%;
+  text-align: left;
+}
+.boxes-about div {
+  margin-bottom: 5%;
+}
+.bottom-section {
+  margin: 5%;
+}
